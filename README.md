@@ -1,10 +1,9 @@
-Check Client Details Hook for WHMCS (MIT License)<br />
-Version 1.0 by KuJoe (JMD.cc)<br />
+Check Client Details Hook for WHMCS<br />
 
 1.1 -	Changed script to run for new clients and when existing clients update their details (and changed method of error reporting).<br />
 	
 //Requirements:<br />
-NONE<br />
+WHMCS 5.3.x (Tested with 5.3.10 and newer)<br />
 
 //Installation:<br />
 1) Upload the chkclientdetails.php file into your WHMCS's hooks directory (/includes/hooks/).<br />
